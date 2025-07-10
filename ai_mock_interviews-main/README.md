@@ -43,5 +43,5 @@ It’s like **LeetCode + ChatGPT + a virtual interviewer** in one. 🙌
 
 ---
 
-## 🧩 Project Structure
+
 
